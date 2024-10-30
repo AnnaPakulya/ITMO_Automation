@@ -66,4 +66,4 @@ def task_6():
         positive_count += 1
     print('количество положительных чисел: ', positive_count)
 
-task_6(
+task_6()
