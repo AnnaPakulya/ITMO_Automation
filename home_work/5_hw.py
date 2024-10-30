@@ -13,4 +13,3 @@ if username and password and submit is not None:
 
 else:
     print('Элементы не найдены')
-
