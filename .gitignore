@@ -1,3 +1,4 @@
 /venv
+/work
 .idea
 *.pytest_cache
