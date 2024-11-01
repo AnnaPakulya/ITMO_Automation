@@ -14,3 +14,5 @@ def find_elements():
 
     else:
         print('Элементы не найдены')
+
+find_elemetns()
